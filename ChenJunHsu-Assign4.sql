@@ -1,12 +1,11 @@
 /* 
   United Helpers Database - Assignment 4
-  Course: CSCI UA.0060 (Spring 2025)
+  Course: CSCI UA.0060 (Fall 2025)
   Student: Chen Jun Hsu
   Date Created: 2025-10-15
 */
 
 -- Create and use database
-DROP DATABASE IF EXISTS unitedhelpers;
 CREATE DATABASE unitedhelpers;
 USE unitedhelpers;
 
